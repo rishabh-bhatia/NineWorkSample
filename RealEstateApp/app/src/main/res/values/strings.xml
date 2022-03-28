@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Real Estate</string>
+    <string name="buy">Buy</string>
+    <string name="rent">Rent</string>
+    <string name="price">Price: %s</string>
+    <string name="pricefrom">Price from: %s</string>
+    <string name="address">Address: %s</string>
+    <string name="bedBathCar">Bed: %d Bath: %d Car: %d</string>
+    <string name="bedBathCarString">Bed: %s Bath: %s Car: %s</string>
+    <string name="na">NA</string>
+</resources>
